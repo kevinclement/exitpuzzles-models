@@ -1,4 +1,4 @@
-# 3D Models used for ExitPuzzles
+# 3D Models used for Exit Puzzles
 
 ### [Lazy Susan Rotary Encoder](./lazy-susan-rotary-encoder/lazy-susan-rotary-encoder.v1.scad)
 
